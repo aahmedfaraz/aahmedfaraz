@@ -39,25 +39,25 @@
 <!-- ===== About ===== -->
 <h3>About</h3>
 <p style="max-width: 640px; font-size: 14px; line-height: 1.6; opacity: 0.85;">
-  I build scalable, production-grade web applications using modern frontend
-  frameworks and cloud-native backends.
+  I build scalable, production-grade <strong>web applications</strong> using <strong>modern frontend
+  frameworks</strong> and <strong>cloud-native backends</strong>.
 </p>
 <p style="max-width: 640px; font-size: 14px; line-height: 1.6; opacity: 0.85;">
   I care deeply about clean architecture,
   performance, and long-term maintainability.
 </p>
 
-<!-- ===== Stack ===== -->
-<h3>Tech Stack</h3>
-<p style="font-size: 14px; opacity: 0.85;">
-  <strong style="color: dodgerblue;">Frontend:</strong>
-  React, Next.js (App Router), TypeScript<br/>
+<!-- ===== Skills  ===== -->
+<h3>Skills</h3>
 
-  <strong style="color: limegreen;">Backend:</strong>
-  Node.js, REST APIs, Webhooks<br/>
-
-  <strong style="color: orange;">Cloud:</strong>
-  AWS (CDK), Cloudflare, Serverless
+<p>
+  <img src="https://img.shields.io/badge/Languages-JavaScript%2C%20TypeScript%2C%20Python-3b82f6?style=flat-square" style="margin: 4px;" /> 
+  <img src="https://img.shields.io/badge/IaC-AWS%20CDK%20(Serverless)-22c55e?style=flat-square" style="margin: 4px;" /> 
+  <img src="https://img.shields.io/badge/AWS-IAM%2C%20Lambda%2C%20AppSync%2C%20Cognito%2C%20S3%2C%20Pinpoint%2C%2020%2B-orange?style=flat-square" style="margin: 4px;" /> 
+  <img src="https://img.shields.io/badge/Frontend-React%2C%20Next.js-3b82f6?style=flat-square" style="margin: 4px;" /> 
+  <img src="https://img.shields.io/badge/Backend-Node.js%2C%20AWS%20Serverless-22c55e?style=flat-square" style="margin: 4px;" /> 
+  <img src="https://img.shields.io/badge/SQL-Aurora%2C%20RDS%20(MySQL%2C%20PostgreSQL)%2C%20Redshift-f59e0b?style=flat-square" style="margin: 4px;" /> 
+  <img src="https://img.shields.io/badge/NoSQL-DynamoDB%2C%20MongoDB-f59e0b?style=flat-square" style="margin: 4px;" /> 
 </p>
 
 <br/>
