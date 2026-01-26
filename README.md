@@ -29,6 +29,7 @@
 <br/>
 
 <!-- ===== LeetCode ===== -->
+<h3>LeetCode Stats</h3>
 <img
   src="https://leetcode.card.workers.dev/aahmedfaraz?theme=auto&font=baloo&extension=null"
   alt="LeetCode Stats"
