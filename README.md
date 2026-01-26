@@ -1,4 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+![LeetCode Stats](https://leetcode.card.workers.dev/aahmedfaraz?theme=auto&font=baloo&extension=null)
 
 <!--
 **aahmedfaraz/aahmedfaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
