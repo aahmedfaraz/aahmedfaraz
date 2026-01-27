@@ -65,7 +65,7 @@
 
 <!-- ===== Footer ===== -->
 <p style="font-size: 13px; opacity: 0.6;">
-  Always learning • Always building
+  Learning • Improving • and Building
 </p>
 
 </div>
