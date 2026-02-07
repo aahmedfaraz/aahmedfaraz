@@ -11,20 +11,30 @@
 </p>
 
 <!-- ===== Action Buttons ===== -->
-<p>
-  <a href="https://www.linkedin.com/in/aahmedfaraz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://aahmedfaraz.github.io/cv/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-View-black?style=for-the-badge&logo=readthedocs" />
-  </a>
-  <a href="mailto:ahmedfaraz.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://leetcode.com/aahmedfaraz" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+<table align="center" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td style="padding: 2px;">
+      <a href="https://www.linkedin.com/in/aahmedfaraz/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+      </a>
+    </td>
+    <td style="padding: 2px;">
+      <a href="https://aahmedfaraz.github.io/cv/cv.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/CV-View-black?style=for-the-badge&logo=readthedocs" />
+      </a>
+    </td>
+    <td style="padding: 2px;">
+      <a href="mailto:ahmedfaraz.contact@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
+      </a>
+    </td>
+    <td style="padding: 2px;">
+      <a href="https://leetcode.com/aahmedfaraz" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
