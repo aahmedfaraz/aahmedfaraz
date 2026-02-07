@@ -31,7 +31,7 @@
 <!-- ===== LeetCode ===== -->
 <h3>LeetCode Stats</h3>
 <img
-  src="https://leetcode.card.workers.dev/aahmedfaraz?theme=auto&font=baloo&extension=null"
+  src="https://leetcard.jacoblin.cool/aahmedfaraz?theme=dark&font=Lato&ext=heatmap"
   alt="LeetCode Stats"
 />
 
