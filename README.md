@@ -3,7 +3,7 @@
 <!-- ===== Header ===== -->
 <h1 style="margin-bottom: 0;">Hi, I'm Ahmed Faraz 👋</h1>
 <p style="margin-top: 6px; font-size: 15px; opacity: 0.8;">
-  Full Stack Software Engineer
+  Software Engineer | Building Scalable Cloud & Full Stack Web Systems | AWS
 </p>
 
 <p style="font-size: 14px; opacity: 0.7;">
